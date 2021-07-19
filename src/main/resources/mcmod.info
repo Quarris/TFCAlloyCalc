@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfcalloycalc",
+  "name": "TFC Alloy Calculator",
+  "description": "Adds an item which allows you to calculate the alloys from the metals you have in your inventory.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
